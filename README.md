@@ -1,4 +1,4 @@
-# My Data Studios - MEAN 4+ Seed Project
+# MEAN 4+ Seed Project
 
 This is a starter project for setting up a MEAN Stack Development environment. 
 
@@ -13,7 +13,7 @@ This is a starter project for setting up a MEAN Stack Development environment.
 
 ## Getting Started
 
-Create a new directory on your workstation and initialize for git. Clone this repository and browse to the studios-mean4 project directory for the remaining commands below. Make sure you have angular and node installed and check using the following commands. Other components can be installed with node package manager (npm).
+Create a new directory on your workstation and initialize for git. Clone this repository and browse to the `meanStack` project directory for the remaining commands below. Make sure you have angular and node installed and check using the following commands. Other components can be installed with node package manager (npm).
 
 ```
 node -v

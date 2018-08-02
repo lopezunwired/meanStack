@@ -4,7 +4,7 @@ const MongoClient = require('mongodb').MongoClient;
 const ObjectID = require('mongodb').ObjectID;
 
 // Connect
-// Connection String for mLabs: mongodb://<dbuser>:<dbpassword>@ds121696.mlab.com:21696/meanstack7278
+// Connection String format for mLabs: mongodb://<dbuser>:<dbpassword>@xyz123456.mlab.com:21696/meanstack111111
 const connection = (closure) => {
     return MongoClient.connect('mongodb://localhost:27017/mean', (err, db) => {
         if (err) return console.log(err);
