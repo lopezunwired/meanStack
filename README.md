@@ -13,7 +13,7 @@ This is a starter project for setting up a MEAN Stack Development environment.
 
 ## Getting Started
 
-Create a new directory on your workstation and initialize for git. Clone this repository and browse to the studios-mean4 project directory for the remaining commands below. Make sure you have angular and node installed by entering the following commands. You will need to have Node installed from the UHG App Store if you do not have it installed. Other components can be installed with node package manager (npm).
+Create a new directory on your workstation and initialize for git. Clone this repository and browse to the studios-mean4 project directory for the remaining commands below. Make sure you have angular and node installed and check using the following commands. Other components can be installed with node package manager (npm).
 
 ```
 node -v
@@ -39,7 +39,7 @@ See the server.js file for configuration of the express server. This file will h
 The instructions below assume a Windows environment for locally hosted mongodb service.
 
 [Optional cloud hosting of mongo database at mLabs](https://mlab.com/)
-> Note you may choose to set up a hosted mongodb server if you are unable to install on your workstation.
+> Note you may choose to set up a hosted mongodb server if you are unable to install on your personal workstation.
 
 Mongo assumes your databases are in a root folder of \data.
 
